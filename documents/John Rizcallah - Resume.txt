@@ -1,0 +1,128 @@
+John Rizcallah	Data Scientist
+LinkedIn: https://www.linkedin.com/in/john-rizcallah/
+Github: https://github.com/jrizcallah
+Email: john.rizcallah@gmail.com	Phone: (806) 410-6750
+
+
+SUMMARY
+An experienced data scientist and machine learning engineer with 4 years of experience,
+specialized in time series forecasting and natural language processing.
+Past projects include designing an algorithm that integrates with the Google API to map unclean corporate descriptions
+to standardized corporation names using NLP methods, constructing a complex reinforcement learning AI for
+futures trading, and detecting bubbles in the FX markets by Sequential Monte Carlo methods.
+A confident and charismatic speaker with years of sales experience, who will jump at the chance to present
+technical results to a non-technical audience. A detail-oriented risk-taker, a collaborative multitasker,
+and an innovative researcher.
+
+SKILLS
+MATHEMATICS: Linear Algebra, Bayesian & Frequentist Statistics, Probability, Modeling, Experimental Design
+GENERATIVE AI: Langchain, LLMs, RLHF, GANs, RAG, Prompt Tuning, PEFT, LoRA, Prompt Engineering, Transformers
+MACHINE LEARNING: Tensorflow, Time-Series Analysis, Natural Language Processing, Deep Learning, Feature Engineering,
+Supervised/Unsupervised Learning, Gradient Boosting, Sci-kit Learn
+DATA TOOLS: Snowflake, dbt, Python, SQL, Plotly, Streamlit, Dash, Pandas, Numpy
+SOFT SKILLS: Project Planning, Requirements Gathering, Documentation, Written Communication,
+Verbal Communication, Multitasking, Quantitative Research, Qualitative Research, Public Speaking,
+Creative Problem-Solving
+
+EXPERIENCE
+John the Quant	June 2021 – Present
+YouTube Creator – Data Science and Quantitative Analysis
+Research wide-ranging topics in data science and AI
+Write, record, and present educational videos on stochastic calculus, fixed income products,
+derivative pricing, statistics, and more
+Complete expository projects in all steps of the financial data science process; acquisition,
+storage, input/output, analysis, and reporting
+Recent videos:
+LOBSTER ITCH Data Access in Python
+https://www.youtube.com/watch?v=w_taBxbmfiU
+Automated Reporting in Python and Excel
+Part 1: https://www.youtube.com/watch?v=UFb-hdKp51w&t=7s
+Part 2: https://www.youtube.com/watch?v=gPuC7nHpQWA&t=15s
+https://www.youtube.com/channel/UCV8B9jnB-a0pofNzBo520hA
+
+Kalibri Labs	June 2022 – May 2024
+Data Scientist
+Reprogrammed algorithms for efficiency, decreasing runtime of two products by 20% and 80%
+Designed and implemented a new NLP product that leverages the Google Search API to map unstructured,
+uncleaned text to corporate names with 93% accuracy
+Automating this process, the rate of mappings went from 3,000/year to 130,000/year
+Overhauled unit testing procedure, wrote over 100 unit tests
+Devised and coded an automated hyperparameter tuning system (ASK ME ABOUT THIS!)
+Architected a churn model from very limited usage data that automated a manual process,
+saving over 70 man-hours per month
+
+Springboard	Sept. 2020 – May 2021
+Data Science Fellow
+Visualization, Time-Series Analysis: Named the borough of London in which property investments have the fastest growth in value
+NLP: Cleaned and tokenized text to predict review ratings; identified the words that most indicate positive/negative sentiment
+Business Impact: Used a random forest model for price analysis and to make property improvement suggestions to a ski resort;
+estimated revenue increases from $33 million to $50 million annually
+Used K Nearest Neighbors, Regression, Clustering, Bayesian analysis, ARIMA modeling, Cosine Similarity,
+and other models to solve business problems as needed
+Built the computer skills, analytical skills, and communication skills necessary for success as a data scientist
+
+West Texas A&M University	Aug. 2019 – May 2020
+Graduate Teaching Assistant
+Developed lesson plans/presentation to teach complex mathematics to non-technical students
+Lectures to 4 classes of 30+ students
+Achieved a pass rate over 50% in a developmental course, compared to the average of 35%
+
+PROJECTS
+JohnnAI Resume Assistant    May 2024
+Connected to ChatGPT, connected to documents and chat history using Langchain
+Deployed on Streamlit
+You are talking to JohnnAI right now
+
+Personal Project	May 2021 – June 2021
+CNN-LSTM Forecasting and Portfolio Optimization
+Wrangled, compiled, cleaned, and explored datasets from multiple databases
+Selected stocks from the NYSE to create a low-correlation investment universe
+Devised an economic factor model of stock returns and created cutting-edge neural network models to
+predict behavior of each stock
+Optimized stock portfolio to achieve maximum risk-adjusted reward
+Backtested investment strategy – Outperformed benchmarks; Annual Sharpe: 0.90
+
+
+Ensemble Reinforcement Learning for Futures Trading     March 2021 - May 2021
+Loaded, cleaned, and prepared price data on 78 futures contracts
+Coded training, validation, and trading environments for use with OpenAI Gym
+Implemented A2C, PPO, and DDPG reinforcement learning algorithms and combined them into one ensemble,
+AI-driven trading strategy
+Sentiment in Reporting: A data-driven analysis of bias in 15 major publications
+Performed sentiment analysis on over 140,000 news articles
+Used linear regression and Tukey HSD hypothesis testing to highlight significant differences in sentiment
+Used Agglomerative Hierarchical clustering, K-Mean clustering, and DBSCAN to explore relationships between publications
+and divide news sources into groups based on political sentiment
+
+VOLUNTEER EXPERIENCE
+Community College of Aurora Data Science Program	Upcoming - August 2024
+Founder
+Program still being refined
+
+EDUCATION
+Springboard	May 2021
+Data Science Track
+
+West Texas A&M University
+Master of Science, Mathematics	December 2020
+Master’s Thesis – Detecting Bubbles in the USD-JPY Exchange Rate by Sequential Monte Carlo Methods
+Implemented an SMC^2 nested particle filter to draw inference on bubble likelihood and parameter values simultaneously
+Devised and backtested several FX trading strategies based on this SMC bubble-stamping method
+Programmed the complex algorithm in R
+
+Bachelor of Science, Mathematics	May 2017
+Minor: Communication Studies
+
+CERTIFICATIONS
+Deeplearning.ai
+Generative AI with Large Language Models Mar. 2024
+Tensorflow Data and Development Apr. 2022
+Tensorflow Developer Mar. 2022
+
+dbt Fundamentals Apr. 2024
+Neo4j Certified Professional Dec. 2021
+
+Datacamp
+Data Science Professional	July 2021
+Machine Learning Scientist	Oct. 2020
+Quantitative Analyst	Apr. 2019
