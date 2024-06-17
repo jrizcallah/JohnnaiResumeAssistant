@@ -1,0 +1,114 @@
+<section>
+John Rizcallah has a dog of indeterminate breed, named Bino.
+Bino was John's wife's dog before they met. Gabi knows that Bino's mom was
+Pekinese, but nobody knows what breed his dad is. Vets have guesses Chihuahua,
+but Bino looks too big for that. In an attempt to settle the question, John built a
+Dog Breed Identifier app.
+John used transfer learning with three models (Xception, InceptionV3, and Resnet152v2)
+to build an ensemble model that accepts a picture of a dog and returns the top 5 most likely breeds
+by predicted probability. The app worked on Android. John installed it on his phone and used it on Bino.
+The app said that Bino was either a Chihuahua or a Pug, the top two breeds that people guess. Similar apps
+made the same prediction when given pictures of Bino.
+</section>
+<section>
+<code>
+# imports
+import pandas as pd
+import numpy as np
+from google.colab import files
+from IPython.core.display import display
+
+import tensorflow as tf
+from pathlib import Path
+import pickle
+from tensorflow.keras.preprocessing import image
+
+import matplotlib.pyplot as plt
+from PIL import Image
+
+import warnings
+warnings.filterwarnings('ignore')
+
+
+# helper functions
+def build_model_list():
+	base_path = Path('drive', 'MyDrive', 'Colab Notebooks', 'DogBreedRecognizer')
+	xception_path = base_path / 'models/xception_model.h5'
+	inceptionv3_path = base_path / 'models/inceptionv3_model'
+	resnet152v2_path = base_path / 'models/resnet152v2_model'
+
+	xception_model = tf.keras.models.load_model(xception_path)
+	inceptionv3_model = tf.keras.models.load_model(inceptionv3_path)
+	resnet152v2_model = tf.keras.models.load_model(resnet152v2_path)
+
+	return [xception_model, inceptionv3_model, resnet152v2_model]
+
+
+def load_breed_dict():
+	base_path = Path('drive', 'MyDrive', 'Colab Notebooks', 'DogBreedRecognizer')
+	breed_dict_path = base_path / 'breed_dict.pkl'
+	with open(breed_dict_path, 'rb') as breed_dict_file:
+		breed_dict = pickle.load(breed_dict_file)
+
+	return breed_dict
+
+
+def get_combined_prediction(models_list, image):
+	pred_prob = np.zeros((1,120))
+	for model in models_list:
+		pred_prob += model.predict(tf.expand_dims(image, axis=0))
+
+	return pred_prob / np.sum(pred_prob)
+
+
+def translate_prediction(pred_prob, breed_dict):
+	if pred_prob.max() < 0.2:
+		return 'Unsure'
+	return breed_dict[pred_prob.reshape(120,).argmax()]
+
+
+def get_top_5_predictions(pred_prob):
+	return np.flip(np.argsort(pred_prob.squeeze())[-5:])
+
+
+def get_top_5_probabilities(pred_prob):
+	return np.flip(np.sort(pred_prob.squeeze())[-5:])
+
+
+def return_prediction(top_5, top_5_prob, breed_dict):
+	top_5_breeds = [breed_dict[i] for i in top_5]
+	output_df = pd.DataFrame([top_5_breeds, top_5_prob], index=['BREED', 'PROBABILITY']).T
+	output_df['BREED'] = output_df['BREED'].str.replace('_', ' ').str.upper()
+	output_df['MORE INFO'] = ['https://www.google.com/search?q='+breed for breed in output_df['BREED']]
+	output_df = output_df.style.format({'BREED': '{}'.format,
+		'PROBABILITY': '{:,.0%}'.format})
+	display(output_df)
+
+
+def image_prediction_function(image, breed_dict, models_list):
+	pred_prob = get_combined_prediction(models_list, image)
+	top_5 = get_top_5_predictions(pred_prob)
+	top_5_prob = get_top_5_probabilities(pred_prob)
+	return_prediction(top_5, top_5_prob, breed_dict)
+
+def master_function():
+	models_list = build_model_list()
+	breed_dict = load_breed_dict()
+
+	uploaded = files.upload()
+	for fn in uploaded.keys():
+		path = '/content/' + fn
+		img = image.load_img(path, target_size=(250,250))
+		x = image.img_to_array(img)
+		x /= 255
+
+		for_display = Image.open(fn)
+		for_display.thumbnail((400,400))
+		image_prediction_function(x, breed_dict, models_list)
+		display(for_display)
+
+
+if __name__ == '__main__':
+	master_function()
+</code>
+</section>

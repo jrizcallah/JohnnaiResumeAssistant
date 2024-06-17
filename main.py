@@ -1,7 +1,6 @@
 import streamlit as st
 from llm_connector import get_completion
 
-
 st.set_page_config(page_title="JohnnAI - John Rizcallah's AI Resume Assistant")
 
 if 'messages' not in st.session_state:
@@ -10,7 +9,7 @@ if 'messages' not in st.session_state:
             'role': 'assistant',
             'content': 'Hi! My name is JohnnAI. '
                        'John Rizcallah built me to help you get to know him a bit better. '
-                       "You can ask me about him and I'll do my best to answer your questions!"
+                       "You can ask me about him and I'll do my best to answer your questions! "
                        "How can I help you?"
         }
     ]

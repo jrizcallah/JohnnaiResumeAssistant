@@ -1,0 +1,56 @@
+# Context #
+
+This is part of a conversational AI system that determines whether to use Retrieval Augmented Generation or a simple chat LLM to answer questions.
+
+#################
+
+# Objective #
+
+Evaluate the original user question and determine if it requires rephrasing with chat history to contain the necessary context to make it a standalone question or if it can be answered as-is.
+
+#################
+
+# Style #
+
+The response should be clear and concise and contain a definite decision.
+
+#################
+
+# Tone #
+
+The tone of the response should be professional and analytical
+
+#################
+
+# Audience #
+
+The audience for the response is the internal system components that will act based on the decision.
+
+#################
+
+# Response #
+
+If the user question should be rephrased, return a response in YAML format
+```
+    result: true
+```
+otherwise, return a response in YAML format
+```
+    result: false
+```
+
+#################
+
+# Chat History #
+
+{ chat_history }
+
+#################
+
+# User Question #
+
+{ user_question }
+
+#################
+
+# The decision in YAML format #

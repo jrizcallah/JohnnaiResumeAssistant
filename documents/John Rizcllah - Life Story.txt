@@ -1,0 +1,199 @@
+<section>
+Early Life
+John was born in Amarillo, Texas. When he was a child, his family moved pretty regularly.
+He remembers living in Lebanon in kindergarten, in a small town named Alma al Chaeb, near the border with Israel.
+His dad's family lived there. In Lebanon, John went to a very strict Catholic school. He learned to speak Arabic!
+Sadly, John does not speak Arabic anymore.
+After John's paternal grandmother died, his family moved to Tulsa, Oklahoma, where he went to St. Pius X Catholic school.
+In Tulsa, John's dad (Joseph) worked at a few fast food restaurants that John's uncles owned. The two John remembers
+most were called Jumbo's and The 41st St. Grill.
+When John was in 3rd grade, his dad was hired by the U.S. Department of State, and they moved to Virginia. They lived in
+Falls Church for a few months before moving to Warrenton. John went to public school for the first time, and he did not
+like it.
+</section>
+<section>
+Overseas
+Joseph's first post with the USDOS was in Sana'a, Yemen. John's family lived in Sana'a for two years, and they had a
+great experience in Yemen. They enjoyed going on trips to historical sights in the area, such as Dar al-Hajar or the
+old souk, and they enjoyed going on nature-focused trips too, to places like Karaman Island. John's family also
+visited other cities in Yemen, such as Aden and Hodeidah. For fourth and fifth grade, John went to Sana'a British School.
+At this tiny school (there were 8 people in each of John's classes), students were encouraged to explore learning at
+their own pace. John loved it. This was a turning point in John's love of education.
+The family's next stop was Muscat, Oman. John went to The American Internation School of Muscat (TAISM) for sixth
+through eighth grade. This was another excellent school, and John's love of learning continued to grow. He also played
+soccer in Oman! John's 8th grade team took 3rd place in an international tournament in Dubai, a major high point for the
+school in general. While in Oman, his family spent several vacations in Dubai. John loved Dubai. It's an amazing city.
+</section>
+<section>
+Return to the USA
+John, his siblings, and his mother moved to Amarillo, Texas when John was entering 9th grade. He and his older sister
+went to Holy Cross Catholic Academy for high school. John hated it. After having been at several excellent schools
+overseas, the limited perpective of this small parochial school was crushing. Most of the other students had known each
+other their entire lives, and John had trouble feeling like he belonged. He learned little in high school, but was still
+able to score in the top 2% of the nation on the SATs. When John graduated, he was offered a full ride academic scholarship
+to St. John's University in Jamaica, Queens, in NYC.
+</section>
+<section>
+After High School
+After high school, John had trouble determining his ambitions. He entered a number of universities with a number of
+different majors, from music composition to philosophy to psychology. He also held a number of jobs, mostly in sales.
+John sold electronics at Sears, and he sold steak-knives door-to-door, and he sold insurance, and he sold rental
+upgrades for National Rent-A-Car at the Amarillo Airport. But the best sales job John had was at Allstar Dodge,
+Chrysler, and Jeep. John enjoyed selling cars because he felt like he was actually helping people. Choosing a good car
+at a far price makes a difference. John left several other slaes jobs because he felt like a parasite, like he was
+taking advantage of people, but he never felt like that selling cars.
+But John knew he didn't want to work in sales his whole life. He kept exploring other career prospects. He was briefly
+an EMT. He painted home interiors. He held fast food jobs. He worked a single day in corn field before learning that
+he is allergic to corn pollen.
+One day, John stumbled onto beanactuary.org, a website devoted to recruiting students to actuarial science. John was
+immediately intrigued. He had never seen such math before! John had always been good at math, but he didn't recognize
+anything he saw in the practice problems. John loves a challenge. Soon, he signed up at Amarillo College, this time as
+a math major.
+</section>
+<section>
+Finding his purpose
+John found that he loved studying math. It wasn't always easy, but he earned an associate's degree from Amarillo College
+and then moved on to his Bachelor's degree at West Texas A&M University. At WT, John studied probability and statistics
+outside of class. He loved reading the books and doing the problems and seeing how uncertainty can be used to our
+advantage in the real world. Since John was still pursuing a career as an actuary, he also learned financial mathematics
+and modelling. John finally earned a bachelor's degree in 2017. For his undergraduate research project, John studied the
+Cox-Ingersoll Ross model, which describes the evolution of interest rates. He learned to derive the model by hand using
+stochastic calculus, and he wrote a Matlab program to forecast interest rate changes. Through his extracurricular studies
+and this project, John discovered that he was more interested in quantitative finance than actuarial science.
+John graduated with a bachelor of science in mathematics in May 2017, and returned to pursue a master of science in
+mathematics from West Texas A&M University in January 2018. He loved grad school even more than he loved undergrad!
+John took as many statistics classes as possible and studied statistics even more on his own. Most of John's applied
+statistics projects were in finance. For his thesis, John coded a nested Sequential Monte Carlo algorithm known as
+SMC^2 that can perform inference on a state-space model while also estimating the parameters of that model. He used the
+R program he created to stamp inflationary bubbles in the USD/JPY exchange rate. It was very difficult to code such a
+complex algorithm completely from scratch, show that it converged correctly, and then apply it to an important yet
+understudied area of economics, and it is John's proudest achievement.
+The programming and statistical work John did for his thesis showed him that his main area of interest, more than
+actuarial science or quantitative finance, was in machine learning and data science. That's what he studied next.
+While in grad school, John got a job as a graduate assistant in the math department, where he lectured to four classes.
+One class was developmental college algebra, and the other three were business calculus. John had a high opinion of his
+students and their abilities. He often assigned relatively difficult in-class practice problems, and he encouraged his
+students to try to solve them and fail. After everyone had time to try on their own, whether they solved the problem or
+not, the class would come together and discuss the best solution. John's classes had higher-than-average pass rates.
+</section>
+<section>
+Stepping into Industry
+After graduating with an M.S. in Mathematics, John entered a data science mentorship program with Springboard. For this
+mentorship, John worked closely with Dipanjan Sarkar, a respected member of the data science community who has written
+several books. DJ was a great mentor, and John learned a lot from him. Since WT didn't offer courses in data science or
+machine learning, John's time at Springboard was mostly about learning the skills required in the industry.
+During this mentorship, John read several books about applied data science. Most notably, he read Machine Learning for
+Algorithmic Trading by Stefan Jansen. This book contains walks through data science concepts from an algorithmic trading
+perspective. It starts with the simplest models, such as linear regression, and successively goes through more complex
+machine learning frameworks, such as ensemble models, boosting models, and deep learning. Each section explains the
+concept in theory and then shows how to apply it in a real-world scenario. John learned a lot about machine learning
+from that book.
+During this mentorship, John also started his YouTube channel, John the Quant. He started the channel for two reasons:
+1. Explaining the theory to others forced him to understand it at a deeper level
+2. He knew firsthand how difficult it was to learn these topics on your own, and he wanted to make it easier for others
+John covers ideas from stochastic calculus, from quantitative finance, from algorithm finance, data science and machine
+learning. His video are well-received and helped him land his next job, at Kalibri Labs.
+</section>
+<section>
+Working as a Data Scientist
+John's first long-term job as a data scientist was at Kalibri Labs. This small startup SaaS company sells benchmarks
+and forecasts to the hotel industry. It was not an area that John even thought he would work in, but he found it
+fascinating. John loves to learn, and he learned a lot at Kalibri Labs.
+John also loved his coworkers at Kalibri Labs. His direct supervisor, Mark Mazzocco, had a wealth of experience in
+hospitality. John and Mark would have long, freewheeling discussions about how hotels operate, how hotel pricing and
+revenue management work, and the predominant theory on what drives hotel performance. John was able to use what he
+learned from those discussions, along with his understanding of machine learning, modelling, and statistics, to
+improve the forecasts at Kalibri Labs significantly.
+Kalibri Labs produced three data science algorithms that it sold: Prediction, Estimation, and Optimal Business Mix.
+While John focused on the Prediction algorithm, he made big improvements to all three.
+When John started, the hospitality was rebounding after the pandemic and Kalibri Labs was growing quickly. One of the
+main problems they faced was scaling up time-intensive algorithms. John quickly studied Python performance tuning and
+reduced processing time of the Prediction Algorithm by 20%! He did this by eliminating wasteful or repetitive
+functions, by implementing a new parallelization technique, and by rewriting several suboptimal functions in Cython.
+The algorithm got faster, and the results were unchanged. John had a number of additional recommendations for scaling
+the algorithm, but was not allowed time to implement them.
+Estimation was also struggling to scale. This algorithm generates benchmarks for hotels for which the company did not
+receive data. It worked by progressively distributing the known demand and revenue in a market according to the
+distribution of the known demand and revenue in that market. The problem was that the output was huge. The output was
+so big that the company could not load the data onto the platform. John explored solutions. He noticed that the enormous
+output matrices had a lot of repeated numbers. His first suggestion was to sparsify the matrices. Since so many values
+were repeated, they could save each value once along with a map to its position in the output matrix, rather than saving
+each value thousands of times. This cut the size of the output significantly! John also suggested that they save the
+output values in smaller data types. By changing from float64 to float32, they could cut the size of the output in
+half again without significantly impacting usability.
+When John started, the Optimal Business Mix algorithm was written in R. Another data scientist translated the algorithm
+into Python, line by line. The Python version was far too slow and sometimes even crashed when adding too many
+constraints to the optimizer. The other data scientist asked John for advice. After listening to the problem and
+discussing the details with his coworker, John performed benchmarking on the new algorithm and was able to find the
+bottlenecks in the program. He then advised his coworker to change loops into array functions, to break one loop into
+multiple smaller loops and parallelize the smaller loops, and to explore options for using the Jacobian to help the
+optimizer converge faster. The coworker implemented John's ideas, and the algorithm was not only faster than the R
+version but converged with more stability as well.
+</section>
+<section>
+Leading projects
+John was the lead on several projects at Kalibri Labs: He devised an NLP algorithm that could map messy, vague
+descriptions of companies with the company's official name; he designed a customer health algorithm to make the best
+use of what little user data Kalibri Labs had; and he created an automated hyperparameter tuning algorithm to keep the
+Prediction algorithm at its best performance.
+John had the idea to automate hyperparameter tuning early in his time at Kalibri Labs. He was asked whether he thought
+the algorithm needed to be re-tuned since it had been some time. His research into the model's accuracy showed that it
+needed to be re-tuned regularly, and so he set out to make that as easy as possible. Normally, hyperparameter tuning
+would be somewhat labor-intensive, as a data scientist would choose a set of hyperparameters, test them, explore the
+output, then choose another. The other option is to have it be a very computationally intensive process using a
+grid-search framework and exploration of the output. To make it even more difficult, there were hyperparameters in the
+algorithm that were external to the model itself, and those also needed to be tuned. John automated the entire process.
+The process John created used a Bayesian search algorithm. Starting hyperparameters were randomly sampled from
+distributions generated from the previous run's trial outcomes. After each run, the algorithm performed a number of
+diagnostic tests, calculated a number of metrics and visualizations, and then generated a tearsheet that would allow an
+analyst to quickly determine the effectiveness and shortcomings of that set of hyperparameters. The optimizer
+would then choose another candidate that was likely to be more optimal than the last, and the process would repeat. The
+algorithm would then select the best performing hyperparameters and rewrite the entire Prediction algorithm to use the
+selected hyperparameters. There would be no human programming or decision-making required, though John did suggest that
+a human should at least review the results of the optimization.
+The customer success team at Kalibri Labs was very busy. Each member of that team had hundreds of clients that they
+were responsible for. To help them make the best use of their limited time, John had the idea to create an automated
+"customer health score", where lower scores indicated clients that may need more attention. The company had limited
+data on customer happiness and no usable data on customer retention. John decided to evaluate customer usage, or
+engagement, information as a proxy to customer happiness. A customer who uses the platform a lot probably likes it,
+right? The company had very little data on customer engagement as well, so John decided to use a classical
+statistical modeling technique: the Transition Matrix. John created a model that split customers into buckets by their
+usage statistics, then calculated transition statistics for each of those buckets. The resulting model predicted
+customer usage in the following month much better than the naive assumption (next month will be the same as this month)
+and even better than the customer representative's human forecast. The entire process was automated: Data was pulled in
+from an API, processed, and forecast, and then the forecasts and scores were uploaded to Salesforce via the Salesforce
+API. The program was then packaged as an executable and given to the team leader, allowing a non-technical employee to
+update the health scores whenever was convenient for them. Not only did this improve the team's ability to
+understand and connect with customers, but it also saved them hundreds of hours every month that they spent
+making subjective evaluations of their clients' happiness.
+The NLP project was the largest, hardest, and most impactful. When hotels have business customers, they generally have
+a special code that identifies that business. But that code is not standardized across hotel brands, and sometimes isn't
+even standardized across hotels within the same brand! Kalibri Labs needed a way to find how many rooms a company had
+booked across an entire market. Connecting the corporate codes by hand was very tedious. Over about a year, a data
+analyst managed to map approximately 3,000 codes manually. John created an algorithm that mapped over 130,000 codes in
+just a few months. Along with the corporate code, hotels generally have a short description of the company. Sometimes
+this is the company's name itself, but it is often something else. John used those descriptions to connect corporate
+accounts that otherwise could not be connected. First, the input descriptions were cleaned and joined together, so each
+description was only mapped once regardless of how many times it appeared. Then, those descriptions were sent through
+the Google Search API, and search results returned in JSON format. Next, the results from Google were put through a
+transformer-based Named Entity Recognition model that was fine-tuned to look for names of corporation. Ask John how
+he trained it. He is quite proud of his ingenuity in dealing with this problem! Once the NER model had identified the
+corporate names that exist in the search results, the algorithm had several levels of probability calculations that
+determined the final output. John was told that the algorithm needed to be at least 90% accurate. The final algorithm
+was 93% accurate when weighted by corporate code and over 99% accurate when weighted by room count. Over 99% of rooms
+were mapped to the correct corporate account. The lack of corporate account information was a major sticking point
+for potential customers, and a major obstacle for salespeople. John's algorithm eliminated that concern and allowed the
+company to grow even faster.
+</section>
+<section>
+The Future
+John has a growth mindset. He has spent the last few years growing as a data scientist and helping his teams grow, too.
+John is looking for a new way to make a big impact. He believes that generative AI is of paramount importance to the
+future of humanity. He believes that the effective combination of data and leadership can overcome even the greatest
+obstacle. John wants to change the world and he wants to help other people change the world, too.
+That's why John has started a data science program at the Community College of Aurora, where he will lead a team of
+dedicated students in starting their data science and AI education. That's also why John has decided to continue his
+formal education. Though he already has a master's degree in math, he has more to contribute to the field through
+academic research.
+John would be an excellent addition to your team, especially in a leadership role.
+</section>

@@ -1,0 +1,68 @@
+<section>
+Hi guys! John the Quant here. It has been a wild 14 months, but we are back and so excited for the future.
+
+Today we are going to address one of the most frightening aspects of machine learning: THE CURSE!!!! Of dimensionality.
+
+What does the curse of dimensionality mean? It's counterintuitive, but it's actually pretty simple.
+In general, the more data you have, the more information you have, the better. More features means you can have a more
+flexible model which means you can get a closer fit to the "true" generative function which means your model will be more
+accurate, right?
+
+Yes. Sort of. It turns out that, while more features does make your model more flexible and often does mean you can
+build a better model, the more features you have, the harder it is to build a model that fits well. 
+More features, more information, can actually make your model WORSE, even if you can keep it from overfitting!
+
+Let's go over to the iPad and see exactly where that comes from.
+</section>
+<section>
+Here we are on the iPad. The curse of dimensionality is mathematically very simple. Hopefully, we are all familiar with
+Euclidean distance, or at least the Pythagorean theorem. To find the distance between two points, we take the difference
+in each dimension, square it, add them up, and then take the square root. Euclidean distance. a^2 + b^2 = c^2.
+The important thing to notice is that we always ADD the differences. Always add. That means that every time there is a new
+dimension added, the distance between the two points grows. Every time we add a new feature to the input, the distance
+between the data points gets larger.
+
+Even that sounds like a good thing at first! If the data points are far apart, they should be easily separable, right?
+Again, Yes. Sort of. But that's actually what makes it harder to build a model that fits well!
+
+Let's go over to the computer and see why.
+</section>
+<section>
+Okay we are in a Colab notebook now. We are going to import everything we need. I've been fascinated by plotly lately. There's a lot of great stuff in there. And Dash? Forget about it. Maybe that's a video we'll do later, intro to Dash or something.
+
+For this, though, we need a dataset that we know all the "answers" to. So we are making one. There will be two randomly generated features, x_1 and x_2, and the target classification will be based on the sum of those two features. Here it is.
+
+We are also making a third randomly generated feature, x_3, that does NOT affect the target at all. This cmap assigned each target class to a color to help with plotting. Highly recommend something like this for classification - it makes interpreting plots a lot easier.
+
+We know that the data SHOULD have two dimensions, x_1 and x_2, but here it is in just one dimension. Notice how the four classes are not really separable. Maybe you could get decent performance with a model in one dimension, but we know that we can get perfect accuracy in two dimensions. 
+
+And here it is. We can easily draw lines that separate the four classes exactly. And what's more, the  we have drawn here have the following equations:
+
+(blue) x_1 < -x_2 + 0.5
+(yellow) x_1 < -x_2 + 1
+(red) x_1 < -x_2 + 1.5
+(green) x_1 > -x_2 + 1.5
+
+Which is EXACTLY where the separations are supposed to be! We know that this solution is PERFECT.
+
+Now let's visualize in 3 dimensions, including the superfluous x_3 feature that has no affect at all on the target. Depending on the angle of the plot, everything kind of looks like a mess. But if you angle the plot just right, we can see that the x_3 feature is meaningless. This idea should be part of your EDA: Examine the data, graphically, and see if you can determine that any features are superfluous. You can run a hundred statistical tests for feature relevance, but it is often more informative to just LOOK at the features with your own eyes.
+
+Here, again, is the mathematical basis of the curse of dimensionality: If we add another feature, the points get farther apart. Since it gets harder to visualize data in more dimensions, we are going to stick with two dimensions and just push the data points farther apart without increasing the dimensionality.
+
+Man, look at how separable these classes are! It should be EASY to find a model that separates these perfectly, right? And it is. Clearly we can draw lines that separate these. Here. 
+
+But are these the RIGHT separations? Or is this better? Or this? Or some other line? We have no way of knowing. That's the curse of dimensionality. Here are the correct split lines. Not very close to what we guessed, are they? That's the curse of dimensionality. When your data is far apart, it becomes harder to tell the difference between a model that looks good and one that IS good.
+
+Looking at this chart, if we only had more data to fill in the gaps, it would solve out problems. That's one way to address the curse of dimensionality: More data. Often exponentially more data, which gets really expensive really fast. Luckily there are other ways, and that's what the next video is going to be about. 
+</section>
+<section>
+BACK TO IN-PERSON
+
+There it is, guys. The curse of dimensionality. More features means more dimensions which pulls your data points farther apart, making it harder to get a model that actually approaches the optimal parameters. Like I was saying a moment ago, look for videos on dimension reducation techniques such as principal component analysis or t-sne coming soon.
+
+Let me know what you guys liked, what I did well or didn't, in the comments below.
+If you learned something, let me know by hitting the like button.
+And if you want to keep learning with me, go ahead subscribe. Make sure you turn on notifications so you never miss a thing!
+
+Thanks again, guys. See you soon.
+</section>

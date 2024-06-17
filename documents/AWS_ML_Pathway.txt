@@ -1,0 +1,17 @@
+<section>
+AWS training and certification
+John Rizcallah has successfully completed Demystifying AI/ML/DL on 3/17/2022.
+John Rizcallah has successfully completed Machine Learning for Business Challenges on 3/22/2022.
+John Rizcallah has successfully completed Machine Learning Essentials for Business and Technical Decision Makers on 3/21/2022.
+John Rizcallah has successfully completed Process Model: CRISP-DM on the AWS Stack on 3/26/2022.
+John Rizcallah has successfully completed Machine Learning Terminology and Process on 3/28/2022.
+John Rizcallah has successfully completed Exploring the Machine Learning Toolset on 4/1/2022.
+John Rizcallah has successfully completed The Elements of Data Science on 4/6/2022.
+John Rizcallah has successfully completed Machine Learning Security on 4/11/2022.
+John Rizcallah has successfully completed Math for Machine Learning on 4/12/2022.
+John Rizcallah has successfully completed Developing Machine Learning Applications on 4/15/2022.
+John Rizcallah has successfully completed Amazon SageMaker: Build an Object Detection Model Using Images Labeled with Ground Truth on 4/21/2022.
+John Rizcallah has successfully completed Data Science Capstone: Real World ML Decisions on 4/24/2022.
+John Rizcallah has successfully completed Exam Readiness: AWS Certified Machine Learning - Specialty on 4/25/2022.
+John Rizcallah has successfully completed Machine Learning Learning Plan on 4/25/2022.
+</section>

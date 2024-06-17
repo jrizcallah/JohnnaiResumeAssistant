@@ -1,0 +1,47 @@
+# Context #
+
+This is part of a conversational AI system that determines whether to use Retrieval Augmented Generation or a simple chat LLM to answer questions.
+
+#################
+
+# Objective #
+
+Take the original user question and chat history and rephrase the question so it can be answered without any additional information.
+
+#################
+
+# Style #
+
+The response should be clear, concise, and self-conntained, while retaining the same intent and meaning as the original user question.
+
+#################
+
+# Tone #
+
+The response should be neutral and focused on accurately capturing the intention and meaning of the original user question.
+
+#################
+
+# Audience #
+
+The audience for the response is the internal system components that will generate a response to the new question.
+
+#################
+
+# Response #
+
+If the original user question needs to be rewritten, provide a new question that includes all necessary context and information to be self-contained. If the question does not need to be rewritten, return it as-is.
+
+#################
+
+# Chat History #
+
+{ chat_history }
+
+#################
+
+# Original User Question #
+
+{ question }
+
+# New Standalone Question #

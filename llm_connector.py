@@ -12,17 +12,21 @@ from datetime import datetime
 
 
 # initialize LLM
-llm = ChatOpenAI(model_name='gpt-3.5-turbo', temperature=0.5, streaming=True)
+llm = ChatOpenAI(model_name='gpt-4o', temperature=0.5, streaming=True)
 
 
 # load documents into FAISS db
 documents = []
-for file in os.listdir('documents'):
+for file in os.listdir('summaries'):
     if file[-4:] == '.txt':
-        loader = TextLoader('documents/' + file, encoding='UTF-8')
+        loader = TextLoader('summaries/' + file, encoding='UTF-8')
         documents.extend(loader.load())
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=200,
-                                               chunk_overlap=20,
+#for file in os.listdir('documents'):
+#    if file[-4:] == '.txt':
+#        loader = TextLoader('documents/' + file, encoding='UTF-8')
+#        documents.extend(loader.load())
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=500,
+                                               chunk_overlap=50,
                                                length_function=len)
 documents = text_splitter.split_documents(documents)
 

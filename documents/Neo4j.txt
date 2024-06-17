@@ -1,0 +1,77 @@
+<section>
+Neo4j GraphAcademy: Certificate of Completion
+ Presented to:
+ John Rizcallah
+ Successfuly completed the course: Querying with Cypher in Neo4j 4.x
+ Certificate Number: 65360118
+Date: 2021-10-28
+ The certificate holder has successfuly completed the Neo4j GraphAcademy course named above.
+ Emil Eifrem
+ CEO, Neo4j, Inc.
+</section>
+<section>
+Neo4j GraphAcademy: Certificate of Completion
+ Presented to:
+ John Rizcallah
+ Successfuly completed the course: Overview of Neo4j 4.x
+ Certificate Number: 93599612
+Date: 2021-9-30
+ The certificate holder has successfuly completed the Neo4j GraphAcademy course named above.
+ Emil Eifrem
+ CEO, Neo4j, Inc.
+</section>
+<section>
+Neo4j GraphAcademy: Certificate of Completion
+ Presented to:
+ John Rizcallah
+ Successfuly completed the course: Creating Nodes and Relationships in Neo4j 4.x
+ Certificate Number: 40895686
+Date: 2021-11-11
+ The certificate holder has successfuly completed the Neo4j GraphAcademy course named above.
+ Emil Eifrem
+ CEO, Neo4j, Inc.
+</section>
+<section>
+Neo4j GraphAcademy: Certificate of Completion
+ Presented to:
+ John Rizcallah
+ Successfuly completed the course: Using Indexes and Query Best Practices in Neo4j 4.x
+ Certificate Number: 79688255
+Date: 2021-11-18
+ The certificate holder has successfuly completed the Neo4j GraphAcademy course named above.
+ Emil Eifrem
+ CEO, Neo4j, Inc.
+</section>
+<section>
+Neo4j GraphAcademy: Certificate of Completion
+ Presented to:
+ John Rizcallah
+ Successfuly completed the course: Importing Data with Neo4j 4.x
+ Certificate Number: 54106400
+Date: 2021-12-2
+ The certificate holder has successfuly completed the Neo4j GraphAcademy course named above.
+ Emil Eifrem
+ CEO, Neo4j, Inc.
+</section>
+<section>
+Neo4j GraphAcademy: Certificate of Completion
+ Presented to:
+ John Rizcallah
+ Successfuly completed the course: Graph Data Modeling for Neo4j
+ Certificate Number: 76427666
+Date: 2021-12-4
+ The certificate holder has successfuly completed the Neo4j GraphAcademy course named above.
+ Emil Eifrem
+ CEO, Neo4j, Inc.
+</section>
+<section>
+Neo4j Certified Professional
+ Presented to:
+ John Rizcallah
+ Neo4j certifies you as a Neo4j Professional
+ Test Name: Neo4j Certification
+Score: 80.5% (86.9 out of 108)
+Certificate Number: 17320289
+ The certificate holder is recognized by Neo4j GraphAcademy for Professional level knowledge of Neo4j.
+ Sat 4th Dec 2021
+</section>

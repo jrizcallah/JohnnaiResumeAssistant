@@ -1,0 +1,79 @@
+<section>
+May 9, 2024
+ John Rizcallah
+ has successfully completed
+ Build Basic Generative Adversarial Networks
+ (GANs)
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Sharon Zhou, Course Instructor, DeepLearning.AI
+Eda Zhou, Curriculum Developer, DeepLearning.AI
+Eric Zelikman, Curriculum Developer, DeepLearning.AI
+ Verify at:
+https://coursera.org/verify/Q4QA8ZH9D7CV
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+May 15, 2024
+ John Rizcallah
+ has successfully completed
+ Build Better Generative Adversarial Networks
+ (GANs)
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Sharon Zhou, Course Instructor, DeepLearning.AI
+Eda Zhou, Curriculum Developer, DeepLearning.AI
+Eric Zelikman, Curriculum Developer, DeepLearning.AI
+ Verify at:
+https://coursera.org/verify/7DR34ASV94YP
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+ </section>
+ <section>
+ May 22, 2024
+ John Rizcallah
+ has successfully completed
+ Apply Generative Adversarial Networks (GANs)
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Sharon Zhou, Course Instructor, DeepLearning.AI
+Eda Zhou, Curriculum Developer, DeepLearning.AI
+Eric Zelikman, Curriculum Developer, DeepLearning.AI
+ Verify at:
+https://coursera.org/verify/2ZE3UHU9YA7K
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+ </section>
+ <section>
+ 3 Courses
+ Build Basic Generative
+ Adversarial Networks
+ (GANs)
+ Build Better Generative
+ Adversarial Networks
+ (GANs)
+ Apply Generative
+ Adversarial Networks
+ (GANs)
+ May 22, 2024
+ John Rizcallah
+ has successfu ly completed the online, non-credit Specialization
+ Generative Adversarial
+ Networks (GANs)
+ Congratulations! John Rizcallah has completed a l 3 courses of Generative
+ Adversarial Networks - a DeepLearning.AI Specialization. As part of this
+ Specialization, John Rizcallah has learned the classical machine learning skils
+ and the state-of-the-art deep learning techniques needed to build
+ GANs models. John Rizcallah is now equipped to design applications that
+ perform image generation and image-to-image translation using
+ GANs! These, and other generative applications, are going to be at the
+ forefront of the coming transformation to an AI-powered future.
+ The online specialization named in this certificate may draw on material from courses taught on-campus, but the included
+ courses are not equivalent to on-campus courses. Participation in this online specialization does not constitute enrollment
+ at this university. This certificate does not confer a University grade, course credit or degree, and it does not verify the
+ identity of the learner.
+ Sharon Zhou
+Course Instructor
+DeepLearning.AI
+ Verify this certificate at:
+https://coursera.org/verify/specializat
+ ion/F9YW69UR9YNW
+ </section>

@@ -1,0 +1,170 @@
+<section>
+Contact
+ John Rizcallah
+ 400 S Lee St
+ Lakewood, CO 80226
+ 8064106750 (Mobile)
+ john.rizcallah@gmail.com
+ www.linkedin.com/in/john-rizcallah
+ (LinkedIn)
+ github.com/jrizcallah (Portfolio)
+</section>
+<section>
+ Top Skills
+ Research Design
+ Business Research
+ Forecasting
+ Certifications
+ Data Science Career Track
+ Tensorflow Data and Deployment
+ SAS for R Users
+ Kx Introductory Workshop
+ Neo4j Graph Data Science
+ Fundamentals
+</section>
+<section>
+ John Rizcallah
+ Quantitative Researcher | Data Scientist | Machine Learning
+ Specialist | Statistician | Communicator
+ Denver, Colorado, United States
+</section>
+<section>
+ Summary
+ Curiosity may have killed the cat, but in this case it makes the man.
+ I am passionate about finding answers, and about asking questions.
+ The harder the questions, the better. I love researching new topics,
+ exploring new areas, and connecting my personal experience with
+ the matter at hand.
+ I remember the exact moment I decided to change my major to
+ mathematics. I was reading an article that said that Actuaries are
+ among the happiest people in their jobs. On beanactuary.org, I found
+ a practice exam in which there was a triple integral. It seemed so
+ hard... I changed my major to mathematics immediately. Several
+ years later, I passed the first two actuarial exams (Probability and
+ Financial Mathematics). It was the challenge of that practice test that
+ drove me toward who I am today. I love a challenge.
+ In college, this pushed me to strive for more and more expertise,
+ choosing complex projects and delivering exceptional work. I wound
+ my way through several majors at several universities before finding
+ my way to mathematics, statistics, and machine learning. My time
+ spent studying psychology, music, emergency medicine, finance,
+ and philosophy has been tremendously beneficial; it allows me to
+ see interactions between theoretical mathematics and the real world.
+ For my master's thesis, I used my understanding of economics
+ in tandem with my expertise in Bayesian statistics to implement
+ a data-driven, semi-supervised method for stamping bubbles in
+ foreign exchange rates. I also used my understanding of quantitative
+ trading to devise and backtest several trading strategies based on
+ the bubble-stamping method. I programmed the particle filter and
+ backtest in R. I wrote my thesis in R Markdown, too.
+ Toward the end of grad school, I joined Springboard to round out
+ my theoretical education with the real-world skills data scientists
+ use every day. In the Springboard program, I learned Python,
+ SQL, NLP. More importantly, I learned to tell stories and make
+ recommendations using data. That's how data affects lives and
+ businesses.
+ In my previous work as a teacher, salesman, and musician, I always
+ knew that the best part was talking to strangers. Speaking and
+ listening to others are deeply important skills. As much as I love
+ asking and answering questions, doing research, devising and
+ implementing models, I think there would be something missing if I
+ never got to share them.
+</section>
+<section>
+Experience
+ Kalibri Labs
+ Data Scientist
+ July 2022 - May 2024 (1 year 11 months)
+ Maintain and enhance production algorithms; performing statistical and
+ business research when necessary.
+ Projects completed:- Reduced running time of the Optimization algorithm by up to 80%- Designed and coded an algorithm that leverages the Google API to
+ deduplicate low-quality string data into fuzzy groups, then map those groups
+ to specific corporate names with 93% accuracy in both the deduplication and
+ mapping steps- Increased speed, efficiency, and security of a production algorithm,
+ decreasing execution time by approximately 20%- Completely overhauled the unit testing process, writing detailed unit tests for
+ over 100 functions- Researched production algorithm inputs/outputs, translating into business
+ logic to make the algorithm explainable to clients- Devised, documented, and implemented an entirely new, automated
+ hyperparameter tuning system- Implemented a client health (customer churn) model using Salesforce data
+ to estimate the likelihood of user churn; automating a process than took ~70
+ hours per month and making it data-driven
+  - Conducted extensive forecasting experiments, testing dozens of scalers,
+ models, and architectures, using Optuna for hyperparameter tuning, that
+ addressed behavioral problems and was showing promising performance
+ results.
+ Springboard
+ Data Science Fellowship
+ September 2020 - March 2021 (7 months)
+ To be completed by March, 2021:
+ • Fulfill 550+ hours of the hands-on data science training
+ • Complete 2 in-depth capstone projects under the personal guidance of an
+ experience Data Science Mentor
+ • Master skills in Python, SQL, data analysis, data visualization, hypothesis
+ testing, and machine learning
+ Ensemble Reinforcement Learning for Futures Trading · Present
+ • Loaded, cleaned. and prepared price data on 78 futures contracts
+ • Coded training, validation, and trading environments for use with OpenAI
+ Gym
+ • Implemented A2C, PPO, and DDPG reinforcement learning algorithms to
+ create three trading models • Ensemble Trading System still in development
+ • Current Metrics: Sharpe Ratio of 1.006, Annualized Return of 4.5%,
+ Maximum Drawdown of -0.25
+ Sentiment in Reporting: A data driven analysis of bias in 15 major publications
+ • Devised a data science workflow with minimal analyst input, thereby
+ removing analyst bias from the results
+ • Analyzed sentiment in over 140,000 articles using the VADER Lexicon
+ algorithm
+ • Compared publications by Linear Regression, ANOVA, and Tukey HSD
+ testing
+ • Explored relationships between publications using Agglomerative
+ Hierarchical Clustering, K-Means Clustering, and DBSCAN
+ • Research performed in Python. See Projects section for more details.
+ West Texas A&M University
+ Graduate Teaching Assistant
+ August 2019 - May 2020 (10 months)
+ Canyon, Texas, United States
+ • Explained complex mathematical techniques in simple terms
+ • Lectured to classes of 30+ people
+ • Achieved a pass-ratio over 50% in developmental classes
+ Amarillo ISD
+ Substitute Teacher
+ January 2018 - May 2019 (1 year 5 months)
+ Amarillo, Texas Area
+ • Managed Classrooms of 30+ students
+ • Served in an on-call capacity
+ • Worked in multiple subject areas
+ Rock Bottom (band)
+ Lead Vocalist
+ May 2016 - January 2019 (2 years 9 months)
+ Amarillo, Texas
+ • Sang and played guitar as needed
+ • Performed for large groups
+ • Interacted with strangers
+ • Learned and retained a large number of songs
+ Surfin' 66 (band)
+ Lead Vocalist
+ January 2016 - January 2017 (1 year 1 month)
+ Amarillo, Texas
+ Club Z! In-Home Tutoring Services
+ Mathematics Tutor
+ January 2016 - August 2016 (8 months)
+ Amarillo, Texas Area
+ Independent Contractor
+ Mathematics Tutor
+ August 2010 - January 2013 (2 years 6 months)
+ • Evaluated client needs and expectations
+ • Trained students to use mathematical logic and methods
+ • Marketed to potential clients
+ • Developed personalized lesson plans
+ • Scheduled tutoring sessions
+</section>
+<section>
+Education
+ Springboard
+ Certification, Data Science · (2020 - 2021)
+ West Texas A&M University
+ Master's degree, Mathematics · (2018 - 2020)
+ West Texas A&M University
+ Bachelor’s Degree, Mathematics · (2015 - 2017)
+ Amarillo College
+ Associate’s Degree, Mathematics · (2012 - 2015)
+</section>

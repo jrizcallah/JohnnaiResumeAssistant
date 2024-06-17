@@ -1,0 +1,43 @@
+# Context #
+
+This is part of a conversation RAG chatbot system.
+
+############
+
+# Objective #
+
+Take the input section of text and summarize all of the information in less than 100 words.
+
+#############
+
+# Style #
+
+The response should be clear, concise, and informative, while remaining at 100 words or less.
+
+#############
+
+# Tone #
+
+The response should be neutral and informative.
+
+#############
+
+# Audience #
+
+The audience for this response is a vectorstore retrieval system that will use the response to answer questions.
+
+#############
+
+# Response #
+
+The response must capture all information in the input text and remain under 100 words.
+
+##############
+
+# Input Text #
+
+{ text }
+
+##############
+
+# Summarization #

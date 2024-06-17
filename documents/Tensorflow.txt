@@ -1,0 +1,181 @@
+<section>
+Feb 24, 2022
+ John Rizcallah
+ has successfully completed
+ Introduction to TensorFlow for Artificial
+ Intelligence, Machine Learning, and Deep Learning
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+coursera.org/verify/9HLNA8UPRHEP
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+Mar 3, 2022
+ John Rizcallah
+ has successfully completed
+ Convolutional Neural Networks in TensorFlow
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+coursera.org/verify/ZZXEQ9HKXP35
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+Mar 8, 2022
+ John Rizcallah
+ has successfully completed
+ Natural Language Processing in TensorFlow
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+coursera.org/verify/TNSB9UW3GTMC
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+Mar 10, 2022
+ John Rizcallah
+ has successfully completed
+ Sequences, Time Series and Prediction
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+coursera.org/verify/3VWXYMXEXZN2
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+4 Courses
+ Introduction to TensorFlow
+ for Artificial Intelligence,
+ Machine Learning, and Deep
+ Learning
+ Convolutional Neural
+ Networks in TensorFlow
+ Natural Language
+ Processing in TensorFlow
+ Sequences, Time Series and
+ Prediction
+ Mar 10, 2022
+ John Rizcallah
+ has successfu ly completed the online, non-credit Professional
+ Certificate
+ DeepLearning.AI
+ TensorFlow Developer
+ Congratulations! You have completed a l 4 courses of the
+ DeepLearning.AI TensorFlow Developer Professional Certificate
+ program. As part of this Professional Certificate program, you have
+ learned: how to build and train neural networks using TensorFlow,
+ how to improve network performance using convolutions as you train
+ it to identify real-world images, how to teach machines to understand,
+ analyze, and respond to human speech with natural language
+ processing systems, and more! These, and other TensorFlow
+ concepts, are going to be at the forefront of the coming
+ transformation to an AI-powered future.
+ The online specialization named in this certificate may draw on material from courses taught on-campus, but the included
+ courses are not equivalent to on-campus courses. Participation in this online specialization does not constitute enrollment
+ at this university. This certificate does not confer a University grade, course credit or degree, and it does not verify the
+ identity of the learner.
+ Laurence Moroney
+Lead AI Advocate
+Google
+Andrew Ng
+Founder
+DeepLearning.AI
+ Verify this certificate at:
+https://coursera.org/verify/professional
+cert/LWUE577ZVMRF
+</section>
+<section>
+Mar 19, 2022
+ John Rizcallah
+ has successfully completed
+ Browser-based Models with TensorFlow.js
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+coursera.org/verify/2NKCVGPRX3EA
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+Mar 28, 2022
+ John Rizcallah
+ has successfully completed
+ Device-based Models with TensorFlow Lite
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+coursera.org/verify/YSDZLV2JPSL9
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+Apr 1, 2022
+ John Rizcallah
+ has successfully completed
+ Data Pipelines with TensorFlow Data Services
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+https://coursera.org/verify/YZS4F8SVRCXV
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>
+<section>
+4 Courses
+ Browser-based Models with
+ TensorFlow.js
+ Device-based Models with
+ TensorFlow Lite
+ Data Pipelines with
+ TensorFlow Data Services
+ Advanced Deployment
+ Scenarios with TensorFlow
+ Apr 8, 2022
+ John Rizcallah
+ has successfu ly completed the online, non-credit Specialization
+ TensorFlow: Data and
+ Deployment
+ In this specialization, you continued to develop your understanding of
+ machine learning with TensorFlow: Data and Deployment. You have
+ gone beyond basic modeling and learned how to train and run your
+ models within a browser, optimize machine learning models for mobile
+ devices, and create effective data pipelines with TensorFlow Data
+ Services. Now that you’ve learned the various ways to deploy your
+ models, you’re wel-prepared to take your models into the hands of
+ real people on al kinds of devices!
+ The online specialization named in this certificate may draw on material from courses taught on-campus, but the included
+ courses are not equivalent to on-campus courses. Participation in this online specialization does not constitute enrollment
+ at this university. This certificate does not confer a University grade, course credit or degree, and it does not verify the
+ identity of the learner.
+ Laurence Moroney
+Lead AI Advocate at
+ Google
+ Verify this certificate at:
+https://coursera.org/verify/specializat
+ ion/Y343P7M5DJV7
+</section>
+<section>
+Apr 8, 2022
+ John Rizcallah
+ has successfully completed
+ Advanced Deployment Scenarios with TensorFlow
+ an online non-credit course authorized by DeepLearning.AI and offered through Coursera
+ Laurence Moroney
+Lead AI Advocate, Google
+ Verify at:
+https://coursera.org/verify/CSAYHS6LJ44P
+Coursera has confirmed the identity of this individual and their
+ participation in the course.
+</section>

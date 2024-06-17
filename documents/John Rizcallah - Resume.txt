@@ -1,11 +1,13 @@
+<section>
 John Rizcallah	Data Scientist
 LinkedIn: https://www.linkedin.com/in/john-rizcallah/
 Github: https://github.com/jrizcallah
 Email: john.rizcallah@gmail.com	Phone: (806) 410-6750
+</section>
 
-
+<section>
 SUMMARY
-An experienced data scientist and machine learning engineer with 4 years of experience,
+John is an experienced data scientist and machine learning engineer with 4 years of experience,
 specialized in time series forecasting and natural language processing.
 Past projects include designing an algorithm that integrates with the Google API to map unclean corporate descriptions
 to standardized corporation names using NLP methods, constructing a complex reinforcement learning AI for
@@ -13,8 +15,10 @@ futures trading, and detecting bubbles in the FX markets by Sequential Monte Car
 A confident and charismatic speaker with years of sales experience, who will jump at the chance to present
 technical results to a non-technical audience. A detail-oriented risk-taker, a collaborative multitasker,
 and an innovative researcher.
+</section>
 
-SKILLS
+<section>
+JOHN'S SKILLS
 MATHEMATICS: Linear Algebra, Bayesian & Frequentist Statistics, Probability, Modeling, Experimental Design
 GENERATIVE AI: Langchain, LLMs, RLHF, GANs, RAG, Prompt Tuning, PEFT, LoRA, Prompt Engineering, Transformers
 MACHINE LEARNING: Tensorflow, Time-Series Analysis, Natural Language Processing, Deep Learning, Feature Engineering,
@@ -23,8 +27,10 @@ DATA TOOLS: Snowflake, dbt, Python, SQL, Plotly, Streamlit, Dash, Pandas, Numpy
 SOFT SKILLS: Project Planning, Requirements Gathering, Documentation, Written Communication,
 Verbal Communication, Multitasking, Quantitative Research, Qualitative Research, Public Speaking,
 Creative Problem-Solving
+</section>
 
-EXPERIENCE
+<section>
+JOHN'S EXPERIENCE
 John the Quant	June 2021 – Present
 YouTube Creator – Data Science and Quantitative Analysis
 Research wide-ranging topics in data science and AI
@@ -93,13 +99,17 @@ Performed sentiment analysis on over 140,000 news articles
 Used linear regression and Tukey HSD hypothesis testing to highlight significant differences in sentiment
 Used Agglomerative Hierarchical clustering, K-Mean clustering, and DBSCAN to explore relationships between publications
 and divide news sources into groups based on political sentiment
+</section>
 
-VOLUNTEER EXPERIENCE
+<section>
+JOHN'S VOLUNTEER EXPERIENCE
 Community College of Aurora Data Science Program	Upcoming - August 2024
 Founder
 Program still being refined
+</section>
 
-EDUCATION
+<section>
+JOHN'S EDUCATION
 Springboard	May 2021
 Data Science Track
 
@@ -112,8 +122,10 @@ Programmed the complex algorithm in R
 
 Bachelor of Science, Mathematics	May 2017
 Minor: Communication Studies
+</section>
 
-CERTIFICATIONS
+<section>
+JOHN'S CERTIFICATIONS
 Deeplearning.ai
 Generative AI with Large Language Models Mar. 2024
 Tensorflow Data and Development Apr. 2022
@@ -126,3 +138,4 @@ Datacamp
 Data Science Professional	July 2021
 Machine Learning Scientist	Oct. 2020
 Quantitative Analyst	Apr. 2019
+</section>

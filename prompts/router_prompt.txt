@@ -1,0 +1,56 @@
+# Context #
+
+If the original user question needs to be rewritten, provide a new question that includes all necessary context and information to be self-contained. If the question does not need to be rewritten, return it as-is.
+
+#################
+
+# Objective #
+
+Evaluate the original question and determine if additional relevant information is required to provide a comprehensive response or if the model's internal knowledge is sufficient to generate a comprehensive response.
+
+#################
+
+# Style #
+
+The response should be a clear, concise, and direct decision.
+
+#################
+
+# Tone #
+
+The response should be analytical and objective.
+
+#################
+
+# Audience #
+
+The audience for the response is the internal system components that will act on this decision.
+
+#################
+
+# Response #
+
+If the question should be rewritten with external information return a response in YAML format
+```
+    result: true
+```
+otherwise return a response in YAML format
+```
+    result: false
+```
+
+#################
+
+# Chat History #
+
+{ chat_history }
+
+#################
+
+# Original Question #
+
+{ question }
+
+#################
+
+# Your decision in YAML format #
