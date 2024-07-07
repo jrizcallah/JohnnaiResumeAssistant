@@ -10,7 +10,6 @@ most were called Jumbo's and The 41st St. Grill.
 When John was in 3rd grade, his dad was hired by the U.S. Department of State, and they moved to Virginia. They lived in
 Falls Church for a few months before moving to Warrenton. John went to public school for the first time, and he did not
 like it.
-</section>
 <section>
 Overseas
 Joseph's first post with the USDOS was in Sana'a, Yemen. John's family lived in Sana'a for two years, and they had a
@@ -23,7 +22,6 @@ The family's next stop was Muscat, Oman. John went to The American Internation S
 through eighth grade. This was another excellent school, and John's love of learning continued to grow. He also played
 soccer in Oman! John's 8th grade team took 3rd place in an international tournament in Dubai, a major high point for the
 school in general. While in Oman, his family spent several vacations in Dubai. John loved Dubai. It's an amazing city.
-</section>
 <section>
 Return to the USA
 John, his siblings, and his mother moved to Amarillo, Texas when John was entering 9th grade. He and his older sister
@@ -32,7 +30,6 @@ overseas, the limited perpective of this small parochial school was crushing. Mo
 other their entire lives, and John had trouble feeling like he belonged. He learned little in high school, but was still
 able to score in the top 2% of the nation on the SATs. When John graduated, he was offered a full ride academic scholarship
 to St. John's University in Jamaica, Queens, in NYC.
-</section>
 <section>
 After High School
 After high school, John had trouble determining his ambitions. He entered a number of universities with a number of
@@ -49,7 +46,6 @@ One day, John stumbled onto beanactuary.org, a website devoted to recruiting stu
 immediately intrigued. He had never seen such math before! John had always been good at math, but he didn't recognize
 anything he saw in the practice problems. John loves a challenge. Soon, he signed up at Amarillo College, this time as
 a math major.
-</section>
 <section>
 Finding his purpose
 John found that he loved studying math. It wasn't always easy, but he earned an associate's degree from Amarillo College
@@ -75,7 +71,6 @@ One class was developmental college algebra, and the other three were business c
 students and their abilities. He often assigned relatively difficult in-class practice problems, and he encouraged his
 students to try to solve them and fail. After everyone had time to try on their own, whether they solved the problem or
 not, the class would come together and discuss the best solution. John's classes had higher-than-average pass rates.
-</section>
 <section>
 Stepping into Industry
 After graduating with an M.S. in Mathematics, John entered a data science mentorship program with Springboard. For this
@@ -93,7 +88,6 @@ During this mentorship, John also started his YouTube channel, John the Quant. H
 2. He knew firsthand how difficult it was to learn these topics on your own, and he wanted to make it easier for others
 John covers ideas from stochastic calculus, from quantitative finance, from algorithm finance, data science and machine
 learning. His video are well-received and helped him land his next job, at Kalibri Labs.
-</section>
 <section>
 Working as a Data Scientist
 John's first long-term job as a data scientist was at Kalibri Labs. This small startup SaaS company sells benchmarks
@@ -129,7 +123,6 @@ bottlenecks in the program. He then advised his coworker to change loops into ar
 multiple smaller loops and parallelize the smaller loops, and to explore options for using the Jacobian to help the
 optimizer converge faster. The coworker implemented John's ideas, and the algorithm was not only faster than the R
 version but converged with more stability as well.
-</section>
 <section>
 Leading projects
 John was the lead on several projects at Kalibri Labs: He devised an NLP algorithm that could map messy, vague
@@ -184,7 +177,6 @@ was 93% accurate when weighted by corporate code and over 99% accurate when weig
 were mapped to the correct corporate account. The lack of corporate account information was a major sticking point
 for potential customers, and a major obstacle for salespeople. John's algorithm eliminated that concern and allowed the
 company to grow even faster.
-</section>
 <section>
 The Future
 John has a growth mindset. He has spent the last few years growing as a data scientist and helping his teams grow, too.
@@ -196,4 +188,3 @@ dedicated students in starting their data science and AI education. That's also 
 formal education. Though he already has a master's degree in math, he has more to contribute to the field through
 academic research.
 John would be an excellent addition to your team, especially in a leadership role.
-</section>

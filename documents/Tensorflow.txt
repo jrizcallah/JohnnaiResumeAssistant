@@ -11,7 +11,6 @@ Lead AI Advocate, Google
 coursera.org/verify/9HLNA8UPRHEP
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 Mar 3, 2022
  John Rizcallah
@@ -24,7 +23,6 @@ Lead AI Advocate, Google
 coursera.org/verify/ZZXEQ9HKXP35
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 Mar 8, 2022
  John Rizcallah
@@ -37,7 +35,6 @@ Lead AI Advocate, Google
 coursera.org/verify/TNSB9UW3GTMC
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 Mar 10, 2022
  John Rizcallah
@@ -50,7 +47,6 @@ Lead AI Advocate, Google
 coursera.org/verify/3VWXYMXEXZN2
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 4 Courses
  Introduction to TensorFlow
@@ -90,9 +86,7 @@ Andrew Ng
 Founder
 DeepLearning.AI
  Verify this certificate at:
-https://coursera.org/verify/professional
-cert/LWUE577ZVMRF
-</section>
+https://coursera.org/verify/professionalcert/LWUE577ZVMRF
 <section>
 Mar 19, 2022
  John Rizcallah
@@ -105,7 +99,6 @@ Lead AI Advocate, Google
 coursera.org/verify/2NKCVGPRX3EA
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 Mar 28, 2022
  John Rizcallah
@@ -118,7 +111,6 @@ Lead AI Advocate, Google
 coursera.org/verify/YSDZLV2JPSL9
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 Apr 1, 2022
  John Rizcallah
@@ -131,7 +123,6 @@ Lead AI Advocate, Google
 https://coursera.org/verify/YZS4F8SVRCXV
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 4 Courses
  Browser-based Models with
@@ -163,9 +154,7 @@ Coursera has confirmed the identity of this individual and their
 Lead AI Advocate at
  Google
  Verify this certificate at:
-https://coursera.org/verify/specializat
- ion/Y343P7M5DJV7
-</section>
+https://coursera.org/verify/specialization/Y343P7M5DJV7
 <section>
 Apr 8, 2022
  John Rizcallah
@@ -178,4 +167,3 @@ Lead AI Advocate, Google
 https://coursera.org/verify/CSAYHS6LJ44P
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>

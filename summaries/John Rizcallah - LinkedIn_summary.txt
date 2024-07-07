@@ -1,1 +1,54 @@
- John Rizcallah is a Quantitative Researcher, Data Scientist, Machine Learning Specialist, and Statistician based in Denver, Colorado. He is passionate about research and asking challenging questions. His top skills include Research Design, Business Research, and Forecasting. He holds certifications in Data Science Career Track, Tensorflow Data and Deployment, SAS for R Users, Kx Introductory Workshop, and Neo4j Graph Data Science Fundamentals. Contact information: 400 S Lee St, Lakewood, CO 80226, Mobile: 806-410-6750, Email: john.rizcallah@gmail.com, LinkedIn: www.linkedin.com/in/john-rizcallah, Portfolio: github.com/jrizcallah. An individual switched their major to mathematics after finding a challenging actuarial practice exam. They passed the first two actuarial exams and developed a love for challenges. Their college journey involved multiple majors at various universities, ultimately leading to expertise in mathematics, statistics, and machine learning. Studies in psychology, music, emergency medicine, finance, and philosophy provided a broad perspective, helping them connect theoretical mathematics to real-world applications. Their master's thesis involved applying economic understanding. I used Bayesian statistics to develop a semi-supervised method for identifying bubbles in foreign exchange rates and created trading strategies based on this method. I programmed in R and documented my thesis in R Markdown. I later joined Springboard to gain practical data science skills, learning Python, SQL, and NLP, and to effectively communicate data-driven insights. My previous experience includes roles as a teacher, salesman, and musician, where I honed my skills in communication and research. Kalibri Labs Data Scientist (July 2022 - May 2024): Maintained and enhanced production algorithms, performed statistical and business research, and completed several projects. Key achievements include reducing the running time of an optimization algorithm by 80%, designing a deduplication algorithm with 93% accuracy using Google API, increasing algorithm speed, efficiency, and security, overhauling the unit testing process for over 100 functions, and translating algorithm inputs/outputs into business logic for client understanding. Implemented an automated hyperparameter tuning system and developed a customer churn model using Salesforce data, reducing a monthly process from 70 hours to a data-driven approach. Conducted forecasting experiments with various models and tuning using Optuna. Participated in the Springboard Data Science Fellowship (Sep 2020 - Mar 2021), involving 550+ hours of training, completion of two capstone projects, and mastering skills in Python, SQL, data analysis, visualization, hypothesis testing, and machine learning. Currently working on ensemble reinforcement learning for futures trading, involving data preparation for 78 futures contracts. Developed and implemented A2C, PPO, and DDPG reinforcement learning algorithms for trading models, with an ongoing ensemble system. Current metrics include a Sharpe Ratio of 1.006, Annualized Return of 4.5%, and Maximum Drawdown of -0.25. Conducted a data-driven sentiment analysis on 15 major publications using the VADER Lexicon algorithm, analyzing over 140,000 articles and employing methods like Linear Regression, ANOVA, Tukey HSD, and clustering techniques. Research was done in Python. Also served as a Graduate Teaching Assistant at West Texas A&M University from August 2019 to May 2020. The individual has extensive experience in education and music. They taught complex mathematical concepts, achieving a pass rate over 50%, and managed classrooms as a substitute teacher for Amarillo ISD. They also served as a mathematics tutor for various organizations and as an independent contractor. In the music field, they were the lead vocalist for the bands Rock Bottom and Surfin' 66, performing for large groups and learning numerous songs. Their roles involved lecturing, classroom management, on-call duties, and performing music, demonstrating versatility in both educational and musical environments. Developed personalized lesson plans and scheduled tutoring sessions. Education includes a Data Science Certification from Springboard (2020-2021), a Master's degree in Mathematics from West Texas A&M University (2018-2020), a Bachelor’s Degree in Mathematics from West Texas A&M University (2015-2017), and an Associate’s Degree in Mathematics from Amarillo College (2012-2015).
+ John Rizcallah is a Quantitative Researcher, Data Scientist, Machine Learning Specialist,
+ and Statistician based in Denver, Colorado. He is passionate about research and asking challenging questions.
+ His top skills include Research Design, Business Research, and Forecasting.
+ He holds certifications in Data Science Career Track, Tensorflow Data and Deployment, SAS for R Users,
+ Kx Introductory Workshop, and Neo4j Graph Data Science Fundamentals.
+ <section>
+ Contact information: 400 S Lee St, Lakewood, CO 80226, Mobile: 806-410-6750, Email: john.rizcallah@gmail.com,
+ LinkedIn: www.linkedin.com/in/john-rizcallah, Portfolio: github.com/jrizcallah.
+ <section>
+ John switched his major to mathematics after finding a challenging actuarial practice exam.
+ He passed the first two actuarial exams and developed a love for challenges.
+ His college journey involved multiple majors at various universities, ultimately leading to expertise in mathematics,
+ statistics, and machine learning.
+ Studies in psychology, music, emergency medicine, finance, and philosophy provided a broad perspective,
+ helping him connect theoretical mathematics to real-world applications.
+ His master's thesis involved applying economic understanding.
+ John used Bayesian statistics to develop a semi-supervised method for identifying bubbles in foreign exchange rates
+ and created trading strategies based on this method. John programmed in R and documented his thesis in R Markdown.
+ He later joined Springboard to gain practical data science skills, learning Python, SQL, and NLP,
+ and to effectively communicate data-driven insights.
+ <section>
+ John's previous experience includes roles as a teacher, salesman, and musician,
+ where he honed his skills in communication and research.
+ Kalibri Labs Data Scientist (July 2022 - May 2024):
+ Maintained and enhanced production algorithms, performed statistical and business research,
+ and completed several projects. Key achievements include reducing the running time of an optimization algorithm by
+ 80%, designing a deduplication algorithm with 93% accuracy using Google API, increasing algorithm speed,
+ efficiency, and security, overhauling the unit testing process for over 100 functions,
+ and translating algorithm inputs/outputs into business logic for client understanding.
+ Implemented an automated hyperparameter tuning system and developed a customer churn model using Salesforce data,
+ reducing a monthly process from 70 hours to a data-driven approach. Conducted forecasting experiments with various
+ models and tuning using Optuna. Participated in the Springboard Data Science Fellowship,
+ involving 550+ hours of training, completion of two capstone projects, and mastering skills in Python, SQL,
+ data analysis, visualization, hypothesis testing, and machine learning.
+ John is worked on an ensemble reinforcement learning for futures trading,
+ involving data preparation for 78 futures contracts.
+ He developed and implemented A2C, PPO, and DDPG reinforcement learning algorithms for trading models,
+ with an ongoing ensemble system. Current metrics include a Sharpe Ratio of 1.006, Annualized Return of 4.5%,
+ and Maximum Drawdown of -0.25. John conducted a data-driven sentiment analysis on 15 major publications using the
+ VADER Lexicon algorithm, analyzing over 140,000 articles and employing methods like Linear Regression, ANOVA,
+ Tukey HSD, and clustering techniques. His research was done in Python.
+ John also served as a Graduate Teaching Assistant at West Texas A&M University from August 2019 to May 2020.
+ He has extensive experience in education and music. He taught complex mathematical concepts,
+ achieving a pass rate over 50%, and managed classrooms as a substitute teacher for Amarillo ISD.
+ John also served as a mathematics tutor for various organizations and as an independent contractor.
+ In the music field, John was the lead vocalist for the bands Rock Bottom and Surfin' 66, performing for large groups
+ and learning numerous songs. His roles involved lecturing, classroom management, on-call duties,
+ and performing music, demonstrating versatility in diverse public-speaking and leadership environments.
+ John developed personalized lesson plans and scheduled tutoring sessions.
+ <section>
+ John's education includes a Data Science Certification from Springboard (2020-2021),
+ a Master's degree in Mathematics from West Texas A&M University (2018-2020),
+ a Bachelor’s Degree in Mathematics from West Texas A&M University (2015-2017),
+ and an Associate’s Degree in Mathematics from Amarillo College (2012-2015).

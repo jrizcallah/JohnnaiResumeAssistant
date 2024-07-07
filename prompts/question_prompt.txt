@@ -6,19 +6,19 @@ This is part of a conversational AI system that determines whether to use Retrie
 
 # Objective #
 
-Take the original user question and chat history and rephrase the question so it can be answered without any additional information.
+Take the original user question and chat history and rephrase the question so it can contains all information relevant to the original question.
 
 #################
 
 # Style #
 
-The response should be clear, concise, and self-conntained, while retaining the same intent and meaning as the original user question.
+The response should be specific and self-contained. It should have the same meaning as the original question and include all information necessary to answer that question.
 
 #################
 
 # Tone #
 
-The response should be neutral and focused on accurately capturing the intention and meaning of the original user question.
+The response should be neutral and focused on accurately capturing the intention of the original user question. It should be detailed and thorough, including all information relevant to the original question.
 
 #################
 
@@ -30,18 +30,18 @@ The audience for the response is the internal system components that will genera
 
 # Response #
 
-If the original user question needs to be rewritten, provide a new question that includes all necessary context and information to be self-contained. If the question does not need to be rewritten, return it as-is.
+If the original user question needs to be rewritten, provide a new question that includes detailed information. If the question does not need to be rewritten, return it as-is.
 
 #################
 
-# Chat History #
+# Context #
 
-{ chat_history }
+{context}
 
 #################
 
 # Original User Question #
 
-{ question }
+{input}
 
 # New Standalone Question #

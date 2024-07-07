@@ -1,1 +1,21 @@
- John Rizcallah completed two online non-credit courses authorized by DeepLearning.AI and offered through Coursera: "Build Basic Generative Adversarial Networks (GANs)" on May 9, 2024, and "Build Better Generative Adversarial Networks (GANs)" on May 15, 2024. Both courses were instructed by Sharon Zhou, with curriculum developed by Eda Zhou and Eric Zelikman. Coursera confirmed John Rizcallah's identity and participation. Verification links are [here](https://coursera.org/verify/Q4QA8ZH9D7CV) and [here](https://coursera.org/verify/7DR34ASV94YP). John Rizcallah has successfully completed the Generative Adversarial Networks (GANs) Specialization from DeepLearning.AI, offered through Coursera, as of May 22, 2024. This includes three courses: Build Basic GANs, Build Better GANs, and Apply GANs. The instructors and curriculum developers are Sharon Zhou, Eda Zhou, and Eric Zelikman. Coursera has verified his identity and course participation. Verification can be found at https://coursera.org/verify/2ZE3UHU9YA7K. John Rizcallah has completed an online specialization in classical machine learning and state-of-the-art deep learning techniques, focusing on building GAN models for image generation and image-to-image translation. This specialization does not equate to on-campus courses, confer university grades, credits, or degrees, nor verify the learner's identity. The course was instructed by Sharon Zhou from DeepLearning.AI, and the certificate can be verified at Coursera.
+ John Rizcallah completed two online non-credit courses authorized by DeepLearning.AI and
+ offered through Coursera:
+ "Build Basic Generative Adversarial Networks (GANs)" on May 9, 2024,
+ and "Build Better Generative Adversarial Networks (GANs)" on May 15, 2024.
+ Both courses were instructed by Sharon Zhou, with curriculum developed by Eda Zhou and Eric Zelikman.
+ Coursera confirmed John Rizcallah's identity and participation.
+ Verification links are [here](https://coursera.org/verify/Q4QA8ZH9D7CV) and
+ [here](https://coursera.org/verify/7DR34ASV94YP).
+ <section>
+ John Rizcallah has successfully completed the Generative Adversarial Networks (GANs) Specialization
+ from DeepLearning.AI, offered through Coursera, as of May 22, 2024.
+ This includes three courses: Build Basic GANs, Build Better GANs, and Apply GANs.
+ The instructors and curriculum developers are Sharon Zhou, Eda Zhou, and Eric Zelikman.
+ Coursera has verified his identity and course participation.
+ Verification can be found at https://coursera.org/verify/2ZE3UHU9YA7K.
+ <section>
+ John Rizcallah has completed an online specialization in classical machine learning and state-of-the-art
+ deep learning techniques, focusing on building GAN models for image generation and image-to-image translation.
+ This specialization does not equate to on-campus courses, confer university grades, credits, or degrees,
+ nor verify the learner's identity. The course was instructed by Sharon Zhou from DeepLearning.AI,
+ and the certificate can be verified at Coursera.

@@ -1,0 +1,49 @@
+# Context #
+
+This is part of a conversational AI system that determines whether to use Retrieval Augmented Generation or a simple chat LLM to answer questions.
+
+#################
+
+# Objective #
+
+Use the chat history to rewrite the user question so that it is a self-contained query, with all the information necessary to answer the question in detail.
+
+#################
+
+# Style #
+
+The response should be a clear, concise, and specific question.
+
+#################
+
+# Tone #
+
+The tone of the response should be professional and analytical.
+
+#################
+
+# Audience #
+
+The audience for the response is the internal system components that will make further determinations based on the rewritten user question.
+
+#################
+
+# Response #
+
+The response should be a specific, concise prompt that an LLM can answer easily. It should be no more than three sentences.
+
+#################
+
+# Chat History #
+
+{chat_history}
+
+#################
+
+# User Question #
+
+{input}
+
+#################
+
+# The Rewritten Question #

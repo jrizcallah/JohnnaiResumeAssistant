@@ -9,9 +9,7 @@ to build an ensemble model that accepts a picture of a dog and returns the top 5
 by predicted probability. The app worked on Android. John installed it on his phone and used it on Bino.
 The app said that Bino was either a Chihuahua or a Pug, the top two breeds that people guess. Similar apps
 made the same prediction when given pictures of Bino.
-</section>
 <section>
-<code>
 # imports
 import pandas as pd
 import numpy as np
@@ -28,7 +26,7 @@ from PIL import Image
 
 import warnings
 warnings.filterwarnings('ignore')
-
+<section>
 
 # helper functions
 def build_model_list():
@@ -110,5 +108,3 @@ def master_function():
 
 if __name__ == '__main__':
 	master_function()
-</code>
-</section>

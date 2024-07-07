@@ -8,7 +8,6 @@ Contact
  www.linkedin.com/in/john-rizcallah
  (LinkedIn)
  github.com/jrizcallah (Portfolio)
-</section>
 <section>
  Top Skills
  Research Design
@@ -21,13 +20,11 @@ Contact
  Kx Introductory Workshop
  Neo4j Graph Data Science
  Fundamentals
-</section>
 <section>
  John Rizcallah
  Quantitative Researcher | Data Scientist | Machine Learning
  Specialist | Statistician | Communicator
  Denver, Colorado, United States
-</section>
 <section>
  Summary
  Curiosity may have killed the cat, but in this case it makes the man.
@@ -69,7 +66,6 @@ Contact
  asking and answering questions, doing research, devising and
  implementing models, I think there would be something missing if I
  never got to share them.
-</section>
 <section>
 Experience
  Kalibri Labs
@@ -156,7 +152,6 @@ Experience
  • Marketed to potential clients
  • Developed personalized lesson plans
  • Scheduled tutoring sessions
-</section>
 <section>
 Education
  Springboard
@@ -167,4 +162,3 @@ Education
  Bachelor’s Degree, Mathematics · (2015 - 2017)
  Amarillo College
  Associate’s Degree, Mathematics · (2012 - 2015)
-</section>

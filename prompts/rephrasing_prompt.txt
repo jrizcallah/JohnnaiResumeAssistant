@@ -43,13 +43,13 @@ otherwise, return a response in YAML format
 
 # Chat History #
 
-{ chat_history }
+{chat_history}
 
 #################
 
 # User Question #
 
-{ user_question }
+{input}
 
 #################
 

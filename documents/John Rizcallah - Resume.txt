@@ -3,7 +3,6 @@ John Rizcallah	Data Scientist
 LinkedIn: https://www.linkedin.com/in/john-rizcallah/
 Github: https://github.com/jrizcallah
 Email: john.rizcallah@gmail.com	Phone: (806) 410-6750
-</section>
 
 <section>
 SUMMARY
@@ -15,7 +14,6 @@ futures trading, and detecting bubbles in the FX markets by Sequential Monte Car
 A confident and charismatic speaker with years of sales experience, who will jump at the chance to present
 technical results to a non-technical audience. A detail-oriented risk-taker, a collaborative multitasker,
 and an innovative researcher.
-</section>
 
 <section>
 JOHN'S SKILLS
@@ -27,7 +25,6 @@ DATA TOOLS: Snowflake, dbt, Python, SQL, Plotly, Streamlit, Dash, Pandas, Numpy
 SOFT SKILLS: Project Planning, Requirements Gathering, Documentation, Written Communication,
 Verbal Communication, Multitasking, Quantitative Research, Qualitative Research, Public Speaking,
 Creative Problem-Solving
-</section>
 
 <section>
 JOHN'S EXPERIENCE
@@ -99,14 +96,12 @@ Performed sentiment analysis on over 140,000 news articles
 Used linear regression and Tukey HSD hypothesis testing to highlight significant differences in sentiment
 Used Agglomerative Hierarchical clustering, K-Mean clustering, and DBSCAN to explore relationships between publications
 and divide news sources into groups based on political sentiment
-</section>
 
 <section>
 JOHN'S VOLUNTEER EXPERIENCE
 Community College of Aurora Data Science Program	Upcoming - August 2024
 Founder
 Program still being refined
-</section>
 
 <section>
 JOHN'S EDUCATION
@@ -122,7 +117,6 @@ Programmed the complex algorithm in R
 
 Bachelor of Science, Mathematics	May 2017
 Minor: Communication Studies
-</section>
 
 <section>
 JOHN'S CERTIFICATIONS
@@ -138,4 +132,3 @@ Datacamp
 Data Science Professional	July 2021
 Machine Learning Scientist	Oct. 2020
 Quantitative Analyst	Apr. 2019
-</section>

@@ -12,7 +12,6 @@ Eric Zelikman, Curriculum Developer, DeepLearning.AI
 https://coursera.org/verify/Q4QA8ZH9D7CV
 Coursera has confirmed the identity of this individual and their
  participation in the course.
-</section>
 <section>
 May 15, 2024
  John Rizcallah
@@ -27,8 +26,7 @@ Eric Zelikman, Curriculum Developer, DeepLearning.AI
 https://coursera.org/verify/7DR34ASV94YP
 Coursera has confirmed the identity of this individual and their
  participation in the course.
- </section>
- <section>
+<section>
  May 22, 2024
  John Rizcallah
  has successfully completed
@@ -41,7 +39,6 @@ Eric Zelikman, Curriculum Developer, DeepLearning.AI
 https://coursera.org/verify/2ZE3UHU9YA7K
 Coursera has confirmed the identity of this individual and their
  participation in the course.
- </section>
  <section>
  3 Courses
  Build Basic Generative
@@ -74,6 +71,4 @@ Coursera has confirmed the identity of this individual and their
 Course Instructor
 DeepLearning.AI
  Verify this certificate at:
-https://coursera.org/verify/specializat
- ion/F9YW69UR9YNW
- </section>
+https://coursera.org/verify/specialization/F9YW69UR9YNW

@@ -13,7 +13,6 @@ build a better model, the more features you have, the harder it is to build a mo
 More features, more information, can actually make your model WORSE, even if you can keep it from overfitting!
 
 Let's go over to the iPad and see exactly where that comes from.
-</section>
 <section>
 Here we are on the iPad. The curse of dimensionality is mathematically very simple. Hopefully, we are all familiar with
 Euclidean distance, or at least the Pythagorean theorem. To find the distance between two points, we take the difference
@@ -26,7 +25,6 @@ Even that sounds like a good thing at first! If the data points are far apart, t
 Again, Yes. Sort of. But that's actually what makes it harder to build a model that fits well!
 
 Let's go over to the computer and see why.
-</section>
 <section>
 Okay we are in a Colab notebook now. We are going to import everything we need. I've been fascinated by plotly lately. There's a lot of great stuff in there. And Dash? Forget about it. Maybe that's a video we'll do later, intro to Dash or something.
 
@@ -53,8 +51,7 @@ Man, look at how separable these classes are! It should be EASY to find a model 
 
 But are these the RIGHT separations? Or is this better? Or this? Or some other line? We have no way of knowing. That's the curse of dimensionality. Here are the correct split lines. Not very close to what we guessed, are they? That's the curse of dimensionality. When your data is far apart, it becomes harder to tell the difference between a model that looks good and one that IS good.
 
-Looking at this chart, if we only had more data to fill in the gaps, it would solve out problems. That's one way to address the curse of dimensionality: More data. Often exponentially more data, which gets really expensive really fast. Luckily there are other ways, and that's what the next video is going to be about. 
-</section>
+Looking at this chart, if we only had more data to fill in the gaps, it would solve out problems. That's one way to address the curse of dimensionality: More data. Often exponentially more data, which gets really expensive really fast. Luckily there are other ways, and that's what the next video is going to be about.
 <section>
 BACK TO IN-PERSON
 
@@ -65,4 +62,3 @@ If you learned something, let me know by hitting the like button.
 And if you want to keep learning with me, go ahead subscribe. Make sure you turn on notifications so you never miss a thing!
 
 Thanks again, guys. See you soon.
-</section>

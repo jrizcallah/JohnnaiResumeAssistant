@@ -1,5 +1,5 @@
 import streamlit as st
-from llm_connector import get_completion
+from advanced_rag_chain import full_chain
 
 st.set_page_config(page_title="JohnnAI - John Rizcallah's AI Resume Assistant")
 
@@ -21,7 +21,7 @@ for message in st.session_state.messages:
 
 # function to generate responses
 def generate_response(input_prompt):
-    response = get_completion(input_prompt)
+    response = full_chain(input_prompt)
     return response
 
 
